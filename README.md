@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RbacProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
@@ -42,3 +43,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Then Configure db.json
 # Create Component with the help of CLI. (commnad line interface)
 # Move to Route Configuration.
+=======
+# Role-Based-Access-Control
+>>>>>>> 487a89f76abecc46a2ce4f716ebe601222ea1d5a
