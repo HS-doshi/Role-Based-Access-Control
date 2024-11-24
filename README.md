@@ -25,3 +25,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+# Role Based Access Control
+1. Start Project
+
+# Important package & commands for this project!!
+-> npm install -g @angular/cli   (-g used for install global packge in our machine!)
+-> npm install json-server
+-> ng add @angular/material (css library)
+-> npm install ngc-toastr -save (for notify)
+-> json-server --watch db.json
+-> (Use Latest Version -  by default it takes latest version)
+
+# Create Module File for All Material Library
+# Then Configure db.json
+# Create Component with the help of CLI. (commnad line interface)
+# Move to Route Configuration.
